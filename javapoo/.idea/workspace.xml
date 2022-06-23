@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f10660f9-fb15-4e3d-a6cc-e6f151cd1e5b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/fundamentos/AreaCircunferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/AreaCircunferencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f10660f9-fb15-4e3d-a6cc-e6f151cd1e5b" name="Changes" comment="Curso JavaPOO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +64,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656017090879</updated>
     </task>
+    <task id="LOCAL-00001" summary="Curso JavaPOO">
+      <created>1656018108030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656018108030</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Curso JavaPOO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curso JavaPOO" />
   </component>
 </project>
