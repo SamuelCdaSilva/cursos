@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f10660f9-fb15-4e3d-a6cc-e6f151cd1e5b" name="Changes" comment="Curso JavaPOO">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/PrimeiroPrograma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javapoo/fundamentos/NotacaoPonto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javapoo/fundamentos/NotacaoPonto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundamentos/AreaCircunferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/AreaCircunferencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundamentos/NotacaoPonto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/NotacaoPonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/TipoString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,20 +38,7 @@
     "last_opened_file_path": "C:/Users/Samuel/Documents/GitHub/java_e_poo"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrimeiroPrograma">
-    <configuration name="AreaCircunferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.AreaCircunferencia" />
-      <module name="javapoo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fundamentos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TipoString">
     <configuration name="Import" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.Import" />
       <module name="javapoo" />
@@ -107,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TipoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.TipoString" />
+      <module name="javapoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TipoString" />
         <item itemvalue="Application.PrimeiroPrograma" />
         <item itemvalue="Application.NotacaoPonto" />
         <item itemvalue="Application.Inferencia" />
         <item itemvalue="Application.Import" />
-        <item itemvalue="Application.AreaCircunferencia" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656019067611</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Curso JavaPOO">
+      <created>1656019745911</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656019745911</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Curso JavaPOO">
+      <created>1656019752748</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656019752749</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
