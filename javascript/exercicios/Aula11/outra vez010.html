@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detran</title>
+    <style>
+        *{
+            padding: 0%;
+            margin: 0%;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        main {
+            display: flex;
+            width: 100vw;
+            height: 100vh;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #card {
+            background-color: rgb(255, 189, 109);
+            width: 500px;
+            height: 200px;
+            text-align: center;
+            padding: 10px;
+            border-radius: 10px;
+            
+        }
+
+        #card > h1 {
+            padding-bottom: 20px;
+        }
+
+        p {
+            margin-top: 10px;
+        }
+        
+    </style>
+</head>
+<body>
+    <main>
+        <div id="card">
+            <h1>Sistema de Multas</h1>
+            <p>Velocidade: <input type="number" name="velocidade" id="velocidade"> <input type="button" value="Verificar" onclick="mostrar()"></p>
+            <div id="res">
+            </div>
+            <script>
+            function mostrar() {
+                var vel = window.document.getElementById('velocidade')
+                var velocidade = Number(vel.value)
+                res.innerHTML = '<p>A sua velocidade é de: ' +velocidade+ ' km/h<br></p>'
+                if (velocidade > 50 ) {
+                    res.innerHTML +='<p><strong>Sua velocidade está acima da quilometragem permitida, você será multado! <br></strong></p>'
+                }
+                res.innerHTML += '<p><strong>Dirija sempre usando o cinto de segurança!</strong></p>' //PRESTAR A ATENÇÃO NAS CONCATENAÇÕES!!!!
+                }
+            </script>
+        </div> <!--card-->
+    </main>
+</body>
+</html>
