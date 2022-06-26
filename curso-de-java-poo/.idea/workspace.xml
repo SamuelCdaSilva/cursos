@@ -34,12 +34,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Samuel/Documents/GitHub/java_e_poo"
+    "last_opened_file_path": "C:/Users/Samuel/Documents/GitHub/cursos/curso-de-java-poo"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TipoString">
-    <configuration name="Import" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.Import" />
+  <component name="RunManager" selected="Application.ConversaoTipoPrimitivoNumerico">
+    <configuration name="ConversaoTipoPrimitivoNumerico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.ConversaoTipoPrimitivoNumerico" />
       <module name="javapoo" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConversaoTipoPrimitivoNumerico" />
         <item itemvalue="Application.TipoString" />
         <item itemvalue="Application.PrimeiroPrograma" />
         <item itemvalue="Application.NotacaoPonto" />
         <item itemvalue="Application.Inferencia" />
-        <item itemvalue="Application.Import" />
       </list>
     </recent_temporary>
   </component>
