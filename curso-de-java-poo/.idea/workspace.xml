@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f10660f9-fb15-4e3d-a6cc-e6f151cd1e5b" name="Changes" comment="Curso de Java POO">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/ConversaoNumeroString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/ConversaoStringNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/DesafioConversao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/DesafioConversao2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +39,34 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Samuel/Documents/GitHub/cursos/curso-de-java-poo&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConversaoTipoPrimitivoNumerico">
-    <configuration name="ConversaoTipoPrimitivoNumerico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.fundamentos.DesafioConversao2">
+    <configuration name="DesafioConversao1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.DesafioConversao1" />
+      <module name="javapoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fundamentos.ConversaoStringNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.ConversaoStringNumero" />
+      <module name="javapoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fundamentos.ConversaoTipoPrimitivoNumerico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.ConversaoTipoPrimitivoNumerico" />
       <module name="javapoo" />
       <extension name="coverage">
@@ -53,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.Inferencia" />
+    <configuration name="fundamentos.DesafioConversao2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.DesafioConversao2" />
       <module name="javapoo" />
       <extension name="coverage">
         <pattern>
@@ -66,33 +92,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotacaoPonto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.NotacaoPonto" />
-      <module name="javapoo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fundamentos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeiroPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.PrimeiroPrograma" />
-      <module name="javapoo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fundamentos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TipoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="fundamentos.TipoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.TipoString" />
       <module name="javapoo" />
       <extension name="coverage">
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConversaoTipoPrimitivoNumerico" />
-        <item itemvalue="Application.TipoString" />
-        <item itemvalue="Application.PrimeiroPrograma" />
-        <item itemvalue="Application.NotacaoPonto" />
-        <item itemvalue="Application.Inferencia" />
+        <item itemvalue="Application.fundamentos.DesafioConversao2" />
+        <item itemvalue="Application.DesafioConversao1" />
+        <item itemvalue="Application.fundamentos.ConversaoStringNumero" />
+        <item itemvalue="Application.fundamentos.ConversaoTipoPrimitivoNumerico" />
+        <item itemvalue="Application.fundamentos.TipoString" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656209935580</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Curso de Java POO">
+      <created>1656210869172</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656210869172</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
