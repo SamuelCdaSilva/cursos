@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f10660f9-fb15-4e3d-a6cc-e6f151cd1e5b" name="Changes" comment="Curso JavaPOO">
+    <list default="true" id="f10660f9-fb15-4e3d-a6cc-e6f151cd1e5b" name="Changes" comment="Curso de Java POO">
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/ConversaoNumeroString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/ConversaoStringNumero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +31,14 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Samuel/Documents/GitHub/cursos/curso-de-java-poo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Samuel/Documents/GitHub/cursos/curso-de-java-poo&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ConversaoTipoPrimitivoNumerico">
     <configuration name="ConversaoTipoPrimitivoNumerico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.ConversaoTipoPrimitivoNumerico" />
@@ -164,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656024523994</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Curso de Java POO">
+      <created>1656209935580</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656209935580</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +189,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Curso JavaPOO" />
-    <option name="LAST_COMMIT_MESSAGE" value="Curso JavaPOO" />
+    <MESSAGE value="Curso de Java POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curso de Java POO" />
   </component>
 </project>
