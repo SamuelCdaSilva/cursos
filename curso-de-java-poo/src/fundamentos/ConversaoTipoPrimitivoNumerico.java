@@ -1,8 +1,8 @@
 package fundamentos;
 
-public class conversao {
+public class ConversaoTipoPrimitivoNumerico {
 
-    public static void main(String[] args) {
+	public static void main(String[] args) {
 		
 		double a = 1; // implícita
 		System.out.println(a);
