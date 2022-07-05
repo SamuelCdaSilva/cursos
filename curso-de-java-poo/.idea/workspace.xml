@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f10660f9-fb15-4e3d-a6cc-e6f151cd1e5b" name="Changes" comment="Curso de Java POO">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Logicos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -193,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656550548236</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Curso de Java POO">
+      <created>1656565213127</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656565213127</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,5 +217,10 @@
     <MESSAGE value="Curso JavaPOO" />
     <MESSAGE value="Curso de Java POO" />
     <option name="LAST_COMMIT_MESSAGE" value="Curso de Java POO" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/curso_de_java_poo$DesafioLogicos.ic" NAME="DesafioLogicos Coverage Results" MODIFIED="1656565073989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>fundamentos.*</FILTER>
+    </SUITE>
   </component>
 </project>
