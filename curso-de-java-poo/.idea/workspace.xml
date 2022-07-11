@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f10660f9-fb15-4e3d-a6cc-e6f151cd1e5b" name="Changes" comment="Curso de Java POO">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Atribuicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Relacionais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Ternarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/TipoStringEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Unarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f10660f9-fb15-4e3d-a6cc-e6f151cd1e5b" name="Changes" comment="Curso de Java POO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656565213127</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Curso de Java POO">
+      <created>1657425265750</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657425265750</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
